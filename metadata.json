@@ -1,0 +1,6 @@
+{
+  "name": "Zalmen's Tefillin",
+  "description": "All Heart, for Everyone - Interactive demo for the Tefillin campaign",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
